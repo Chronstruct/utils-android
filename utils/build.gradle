@@ -7,9 +7,9 @@ group='com.github.Chronstruct'
 
 
 android {
+    publishNonDefault true
+
     compileSdkVersion 27
-
-
 
     defaultConfig {
         minSdkVersion 21

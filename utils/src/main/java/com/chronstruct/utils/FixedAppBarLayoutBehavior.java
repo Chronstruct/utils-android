@@ -15,8 +15,9 @@ import android.view.View;
  * 2. Fix click timing after scroll (the restK
  * <p>
  * add
- * app:layout_behavior="com.chronstruct.tally.util.FixedAppBarLayoutBehavior"
+ *   app:layout_behavior="com.chronstruct.utils.FixedAppBarLayoutBehavior"
  * to your AppBarLayout
+ *
  */
 public class FixedAppBarLayoutBehavior extends AppBarLayout.Behavior {
 
